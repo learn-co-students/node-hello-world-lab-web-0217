@@ -10,6 +10,7 @@
 
 In this lab, you'll practice how to run Node scripts from command line. In addition, you'll develop your first Node application—Hello World, the traditional first app in any language.
 
+
 ## Instructions
 
 1. Create file `hello-world.js` and open it in your favorite editor
